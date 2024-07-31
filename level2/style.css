@@ -14,7 +14,11 @@
 .box{
     margin: 50px;
     display: flex;
-    sp
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+    
 
 }
 #box1{
