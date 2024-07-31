@@ -1,4 +1,4 @@
-let container = document.getElementById("container");
+let container = document.querySelector(".container");
 container.innerHTML = `
  <center> <h1> Faizan Ali </h1> </center>
         <h3> Account Manager </h3>
